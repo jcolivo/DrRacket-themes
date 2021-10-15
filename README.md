@@ -19,7 +19,6 @@ Open DrRacket, and select your chosen theme from 'Preferences' in the 'Edit' men
 https://github.com/sainnhe/gruvbox-material
 - I slightly modified the Spacemacs Light theme from:
 https://github.com/tuirgin/drracket-spacemacs-schemes
-(I used the Spacemacs info.rkt file from this repository to make the Atom, Darcula, and Gruvbox themes)
 
 ## More themes for DrRacket
 - Base-16 themes: https://github.com/tuirgin/base16-drracket

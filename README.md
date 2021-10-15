@@ -32,4 +32,4 @@ https://github.com/tuirgin/drracket-spacemacs-schemes
 - Dracula: https://github.com/dracula/racket
 
 ## TODO
-- Doom: inspired by https://github.com/hlissner/doom-emacs
+- Doom theme inspired by https://github.com/hlissner/doom-emacs

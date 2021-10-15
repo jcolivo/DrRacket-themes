@@ -1,6 +1,9 @@
 # DrRacket-themes
 Here are some of my favorite dark themes written for DrRacket.
+Please note that the Gruvbox theme resembles the one from:
+https://github.com/sainnhe/gruvbox-material
 
+## Installation
 From the command line:
 1. Make sure to quit DrRacket to ensure no issues are encountered during the package installation process.
 2. From the terminal command prompt, change into the directory of the theme you would like to install.

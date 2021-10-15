@@ -23,7 +23,7 @@
 (define light-red                red)
 (define light-yellow             yellow)
 
-(define light-background         #(251 248 239))
+(define light-background         #(253 246 227))
 (define light-comment            comment)
 (define light-constant           #(78 49 99))
 (define light-error              error)

@@ -30,3 +30,6 @@ https://github.com/tuirgin/drracket-spacemacs-schemes
 ## More themes for DrRacket
 - Base-16 themes: https://github.com/tuirgin/base16-drracket
 - Dracula: https://github.com/dracula/racket
+
+## TODO
+- Doom: inspired by https://github.com/hlissner/doom-emacs

@@ -3,6 +3,9 @@ Here are some of my favorite dark themes written for DrRacket.
 Please note that the Gruvbox theme resembles the one from:
 https://github.com/sainnhe/gruvbox-material
 
+Spacemacs theme is from:
+https://github.com/tuirgin/drracket-spacemacs-schemes
+
 ## Installation
 From the command line:
 1. Quit DrRacket to ensure no issues are encountered during the package installation process.

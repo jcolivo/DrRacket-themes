@@ -1,10 +1,5 @@
 # DrRacket-themes
 Here are some of my favorite dark themes written for DrRacket.
-Please note that the Gruvbox theme resembles the one from:
-https://github.com/sainnhe/gruvbox-material
-
-Spacemacs theme is from:
-https://github.com/tuirgin/drracket-spacemacs-schemes
 
 ## Installation
 From the command line:
@@ -17,5 +12,9 @@ From the command line:
       ```
 4. Open DrRacket, and select your chosen theme from preferences.
 
-## Notes
-These themes have only been tested in a Windows machine, but they should work in Linux and MacOS as well.
+## Notes and Credits
+- These themes have only been tested in a Windows machine, but they should work in Linux and MacOS as well.
+- The Gruvbox theme here resembles the one from:
+https://github.com/sainnhe/gruvbox-material
+- Spacemacs theme is from:
+https://github.com/tuirgin/drracket-spacemacs-schemes

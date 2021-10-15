@@ -11,7 +11,7 @@ Quit DrRacket to ensure no issues are encountered during the package installatio
       ```console
      raco pkg install
       ```
-Open DrRacket, and select your chosen theme from 'Preferences' in the 'Edit' menu.
+Open DrRacket and select your chosen theme from 'Preferences' in the 'Edit' menu.
 
 ## Notes and Credits
 - These themes have only been tested in a Windows machine, but they should work in Linux and MacOS as well.

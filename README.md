@@ -7,7 +7,7 @@ Here are some of my favorite dark themes written for DrRacket.
 2. Quit DrRacket to ensure no issues are encountered during the package installation process.
 
 ### From the command line:
-1. From the terminal command prompt, change into the directory of the theme you would like to install.
+1. At the terminal command prompt, change into the directory of the theme you would like to install.
 2. Run the following command:
 
       ```console

@@ -1,5 +1,5 @@
 # DrRacket-themes
-Here are some of my favorite dark themes written for DrRacket.
+Here are some of my favorite color themes for DrRacket.
 
 ## Installation
 ### Preliminaries
